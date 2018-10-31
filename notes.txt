@@ -1,0 +1,5 @@
+30/10 - p[agina 205 - banco NoSQL]
+
+comandos para o github
+git status - Verificar estado dos arquivos/diretórios
+git 
